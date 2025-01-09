@@ -1,0 +1,17 @@
+#+TITLE: Asteroids
+
+This is just a simple pygame application that recreates the classic game
+"Asteroids".
+
+This program was created while following along with the course on [[https://www.boot.dev/u/maker2413][Boot.dev]].
+
+To run the game you will need to do the following:
+#+begin_src shell
+  python3 -m venv venv
+
+  source venv/bin/activate
+
+  pip install -r requirements.txt
+
+  python3 main.py
+#+end_src
